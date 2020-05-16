@@ -1,2 +1,2 @@
 # Hello-World
-my very 1st repo
+Python app that returns Hello World
